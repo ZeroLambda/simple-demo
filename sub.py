@@ -1,0 +1,1 @@
+print "Substract two numbers"
